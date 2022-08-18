@@ -1,0 +1,29 @@
+.header, .recipe_list {
+    background: #A6D1E6;
+    border: 20px solid #7F5283;
+    text-align: center;
+    font-family: 'Akshar';
+            
+    padding: 0px 50px 0px 50px;
+    margin: 0px 72px 5px 72px;
+}
+.recipie_btn{
+    background-color: #A9E4D7;
+    border: 5px solid #7F5283;        
+    padding: 10px;
+    margin: 10px ;
+}
+.text_btn{
+    color: #4B3869;
+    font-family: 'Akshar';
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;    
+}
+.header_text{
+    color: #3D3C42;
+    font-size: 50px;        
+}
+.recipe_list {    
+    text-align: left;    
+}

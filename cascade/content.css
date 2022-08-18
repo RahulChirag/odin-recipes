@@ -1,0 +1,18 @@
+.header, .content{
+    background: #A6D1E6;
+    border: 20px solid #7F5283;               
+    padding: 0px 50px 0px 50px;
+    margin: 0px 72px 5px 72px;
+    font-family: 'Akshar';
+}
+.header_text{    
+    color: #3D3C42;
+    text-align: center;
+    font-size: 50px;            
+}
+.header_dis, .header_ing, .steps_ing{
+    background: #FFC18E;
+    border: 5px solid #7F5283;
+    color: #CA4E79;
+    text-align: center;    
+}
