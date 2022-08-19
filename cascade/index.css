@@ -9,21 +9,28 @@
 }
 .recipie_btn{
     background-color: #A9E4D7;
-    border: 5px solid #7F5283;        
+    border: 5px solid #7F5283;
+    display: block;        
     padding: 10px;
-    margin: 10px ;
+    margin: 10px ;    
 }
 .text_btn{
     color: #4B3869;
     font-family: 'Akshar';
     font-size: 30px;
     font-weight: bold;
-    text-decoration: none;    
+    text-decoration: none;       
 }
 .header_text{
     color: #3D3C42;
     font-size: 50px;        
 }
-.recipe_list {    
-    text-align: left;    
+.recipie_btn{
+    transition: transform .1s ease-in-out;
 }
+.recipie_btn:hover{
+    transform: scale(1.01);
+    background-color: #dafff7;
+}
+
+
